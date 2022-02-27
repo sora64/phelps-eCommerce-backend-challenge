@@ -1,7 +1,5 @@
 # phelps-eCommerce-backend-challenge
 
-
-
 ## Description
 
 This application provides the manager of an internet retail company with a backend to that company's e-commerce website so that the company can remain competitive with other e-commerce companies.
@@ -23,7 +21,7 @@ Source the database in a MySQL shell in a terminal integrated with the root of t
 This application is used to manipulate data in a database and serves as a back end for an e-commerce website.
 
 ## Video
-- [Video Demonstration]()
+- [Video Demonstration](https://drive.google.com/file/d/1xyb5bvRGC8Yqd5tKzTyo6NKJor5-S71v/view)
 
 ## Questions
 
