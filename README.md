@@ -16,7 +16,7 @@ This application provides the manager of an internet retail company with a backe
 
 ## Installation
 
-Source the database in a MySQL shell in a terminal integrated with the root of the application by running "mysql -u -root -p", entering your password, and running "source db/schma.sql". Next, quit MySQL by typing "quit;", run "npm run seed" in the terminal to seed the database, and then begin the application by running "npm start" or "node server.js" in the terminal. Then use a tool like Insomnia to create, read, update, and delete data from the database.
+Source the database in a MySQL shell in a terminal integrated with the root of the application by running "mysql -u -root -p", entering your MySQL password, and running "source db/schma.sql". Next, quit MySQL by typing "quit;", run "npm run seed" in the terminal to seed the database, and then begin the application by running "npm start" or "node server.js" in the terminal. Then use a tool like Insomnia to create, read, update, and delete data from the database.
 
 ## Usage
 
